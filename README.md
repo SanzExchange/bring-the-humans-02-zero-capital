@@ -127,6 +127,14 @@ My referral link again: https://make.fun/r/3szjsnz5 — code `3szjsnz5`.
 - **Sharing wallet secrets.** Fix: your recovery phrase stays on paper, offline, forever.
 - **Submitting at the last minute.** Fix: submit a day early; use the extra day to improve, not to panic.
 
+## What to do with your first winnings
+
+If you win, do not rush to spend it. A small plan turns one win into a habit:
+
+- **Keep a record.** Write down the bounty, the prize, and the date. After a few entries you will see which bounty types pay best for your skills.
+- **Reinvest in learning, not in fees.** A free course, a better laptop accessory, or a book beats paying for "guaranteed win" schemes — those do not exist.
+- **Save most of it.** Even a small prize is real money. Put most aside, spend a little to celebrate, and keep building. The next bounty is already waiting.
+
 ## FAQ
 
 **Do I need money to start?**
